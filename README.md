@@ -1,6 +1,3 @@
-# Deep-Learning
-This project implements basic Deep Learning algorithms, including ANN, CNN.
-
 # ANN Model for Customer Churn Prediction
 
 ## Overview
